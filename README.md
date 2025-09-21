@@ -45,4 +45,4 @@ Images are saved as:Image_<timestamp>.jpg
 ```Python 3.x
 opencv-python
 cvzone
-numpy```
+numpy
