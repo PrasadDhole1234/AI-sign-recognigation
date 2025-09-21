@@ -34,7 +34,7 @@ pip install opencv-python cvzone numpy
 mkdir -p Data/Z
 
 python collect.py
-
+```
 Webcam will open and start detecting your hand.
 
 Press s to save the current processed hand image to Data/Z.
@@ -42,7 +42,7 @@ Press s to save the current processed hand image to Data/Z.
 Images are saved as:Image_<timestamp>.jpg
 
 📦 Dependencies
-Python 3.x
+```Python 3.x
 opencv-python
 cvzone
-numpy
+numpy```
