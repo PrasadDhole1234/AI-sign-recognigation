@@ -20,7 +20,7 @@ Hand-Gesture-Data-Collection/
 │── README.md # Documentation
 
 
----
+---------------------------------------------------------------------------------
 
 ## ⚙️ Installation
 
