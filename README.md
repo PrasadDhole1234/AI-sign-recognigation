@@ -2,7 +2,7 @@
 
 This project captures hand gesture images using **OpenCV** and **cvzone’s HandTrackingModule**. The script detects a hand from a webcam feed, crops it, normalizes the size to a white canvas, and saves it as a dataset for further use (e.g., training gesture recognition models).
 
----
+---------------------------
 
 ## ✨ Features
 - Real-time hand detection using **cvzone**.  
